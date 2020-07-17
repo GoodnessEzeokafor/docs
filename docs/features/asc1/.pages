@@ -5,3 +5,4 @@ arrange:
    - teal_overview.md
    - goal_teal_walkthrough.md
    - sdks.md
+   - teal_test.md

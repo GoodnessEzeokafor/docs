@@ -8,10 +8,11 @@ Before getting started, it is important to understand that there are several way
 
 To learn more about the TEAL language specification see the [TEAL Specification Reference](../../reference/teal/specification.md). To get a simplified understanding of how TEAL is processed see the [TEAL Overview guide](teal_overview.md).
 
-To compile and use TEAL programs using `goal`, see [A Contract Walkthrough](goal_teal_walkthrough.md). 
+To compile and use TEAL programs using `goal`, see [A Contract Walkthrough](goal_teal_walkthrough.md).
 
 To start working with TEAL with the SDKs, visit the [Using the SDKs](sdks.md) section.
 
+To learn how to write tests for TEAL smart contracts, refer to the [Testing TEAL programs](teal_test.md) document.
 
 
 
